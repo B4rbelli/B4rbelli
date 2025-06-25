@@ -36,7 +36,7 @@ Aplicar meus conhecimentos em um ambiente colaborativo e inovador.
 Minhas habilidades incluem:
 
 Tecnologias: Windows, Linux, Python, JavaScript, Docker, AWS.
-Ferramentas: ServiceNow, GitHub.
+Ferramentas: ServiceNow, GitHub, Git, Zabbix, Greenbone, Grafana, PostgreeSQL, SQL Server, MariaDB, MySQL.
 Sou um profissional:
 
 Proativo: Busco sempre novas soluções e aprimorar meus conhecimentos.
