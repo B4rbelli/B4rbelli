@@ -28,19 +28,14 @@ I work on building secure, scalable, and highly available IT environments, with 
 
 Operating Systems:
 Windows Server (AD, GPO, DHCP, DNS, IIS) · Linux (Debian, CentOS, Ubuntu)
-
 Networking & Security:
 Cisco · Fortigate · pfSense · VLANs · TCP/IP · Wazuh (SIEM) · Greenbone/OpenVAS
-
 Monitoring & Continuity:
 Zabbix · Grafana · Veeam Backup · ServiceNow · Lansweeper · GLPI
-
 Databases:
 SQL Server · PostgreSQL · MySQL — administration, replication, tuning, backup/recovery
-
 Virtualization & Cloud:
 VMware vCenter · Hyper-V · AWS Cloud Practitioner Essentials
-
 Development & Automation:
 Python (scripting, automation, APIs with FastAPI + SQLAlchemy) · React + Tailwind · HTML/CSS/JS
 
