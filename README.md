@@ -20,53 +20,40 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=green&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+perfil+do+GitHub!+:%29)](https://git.io/typing-svg)
 
+Infrastructure & Cybersecurity Analyst | Cloud & DevOps Enthusiast
 
+I work on building secure, scalable, and highly available IT environments, with a strong focus on infrastructure, automation, and observability. My goal is to combine resilience, performance, and security in every solution I design.
 
-🔹 Infraestrutura & Administração de Sistemas
+🛠️ Skills & Tools
 
-Experiência sólida em Windows Server (AD, DNS, DHCP, GPO, IIS).
-Administração de Linux (Debian, CentOS) para servidores críticos.
-Configuração de redes corporativas, VLANs, ACLs, firewall e WAPs.
-Gestão de ambientes híbridos on-premises e cloud (AWS, virtualização, VMware).
-Automação de tarefas de infraestrutura e monitoramento de serviços.
+Operating Systems:
+Windows Server (AD, GPO, DHCP, DNS, IIS) · Linux (Debian, CentOS, Ubuntu)
 
-🔹 Monitoramento, Observabilidade & Segurança
+Networking & Security:
+Cisco · Fortigate · pfSense · VLANs · TCP/IP · Wazuh (SIEM) · Greenbone/OpenVAS
 
-Implantação e gerenciamento de Zabbix, Grafana e Wazuh.
-Criação de dashboards customizados (alertas, geolocalização, tooltips, métricas avançadas).
-Integração de logs de segurança (ex.: Fortigate via Syslog com parser + GeoIP).
-Controle de ativos com Lansweeper e inventário com OCS/GLPI.
-Experiência prática em segurança ofensiva e defensiva com foco em Cybersecurity Industrial (OT/ICS).
+Monitoring & Continuity:
+Zabbix · Grafana · Veeam Backup · ServiceNow · Lansweeper · GLPI
 
-🔹 Banco de Dados & Aplicações
+Databases:
+SQL Server · PostgreSQL · MySQL — administration, replication, tuning, backup/recovery
 
-Administração e migração de bases SQL Server e PostgreSQL.
-Experiência em ajustes de schemas, backups, replicações e performance tuning.
-Integração de bancos em aplicações críticas (Control ID, Triângulos, RPNC, etc.).
-Suporte a sistemas corporativos (ERP, impressão corporativa, relatórios).
+Virtualization & Cloud:
+VMware vCenter · Hyper-V · AWS Cloud Practitioner Essentials
 
-🔹 Desenvolvimento & Automação
+Development & Automation:
+Python (scripting, automation, APIs with FastAPI + SQLAlchemy) · React + Tailwind · HTML/CSS/JS
 
-Criação de APIs e sistemas com FastAPI + SQLAlchemy.
-Desenvolvimento de sistemas de pagamento (Pix, Boleto, PayPal, Cripto e Cartão/Stripe).
-Frontend com React + Tailwind, com foco em design limpo e responsivo.
-Integração de soluções sob medida para clientes (portais, painéis e aplicações web).
-Automação de rotinas administrativas e de TI (scripts, APIs e GPOs).
+Best Practices & Frameworks:
+ITIL · COBIT · Scrum · Kanban · DevOps foundations
 
-🔹 Empreendedorismo & Consultoria
+🚀 Current Interests
 
-Founder de empresa de TI, Cybersegurança e Desenvolvimento.
-Experiência em consultoria para pequenas e médias empresas, entregando soluções sob medida.
-Estruturação de documentações de conformidade (LGPD, políticas de privacidade, DPO).
-Produção de propostas, relatórios técnicos e apresentações executivas para clientes.
-Visão de negócio unindo infraestrutura, segurança e inovação tecnológica.
+Cloud & DevOps: automation, CI/CD, Infrastructure as Code
+Cybersecurity: SIEM, incident response, vulnerability management
+Observability: intelligent metrics, dashboards, event correlation
 
-📈 O que me move
-
-🚀 Conectar segurança, inovação e eficiência para impulsionar empresas com soluções em infraestrutura, automação e software.
-💡 Acredito em tecnologia acessível e transparente, que fortalece empresas em um mercado cada vez mais digital e competitivo.
-
-
+💡 My mission is to deliver secure, resilient, and high-performance environments, bridging infrastructure, security, and innovation.
 ### Habilidades
 
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
