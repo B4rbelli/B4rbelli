@@ -33,8 +33,8 @@ I build **secure, scalable, and highly available** IT environments focused on **
 - Administration · Replication · Tuning · Backup/Recovery
 
 **Virtualization & Cloud**
-- VMware vCenter · Hyper-V
-- AWS (Cloud Practitioner Essentials)
+- VMware vCenter · Hyper-V · Proxmox
+- AWS · GCP
 
 **Development & Automation**
 - Python (scripting, automation, APIs with FastAPI + SQLAlchemy)
