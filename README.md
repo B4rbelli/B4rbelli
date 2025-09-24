@@ -22,29 +22,49 @@ Here are some ideas to get you started:
 
 
 
-Profissional de TI com experiência em:
+🔹 Infraestrutura & Administração de Sistemas
 
-Suporte Técnico: Resolução de problemas em computadores, impressoras e redes.
-Infraestrutura: Configuração e manutenção de servidores e sistemas operacionais.
-Automação: Utilização de ferramentas para automatizar tarefas e otimizar processos.
-Desenvolvimento: Criação de pequenas aplicações e integração de sistemas.
-Busco uma oportunidade para:
+Experiência sólida em Windows Server (AD, DNS, DHCP, GPO, IIS).
+Administração de Linux (Debian, CentOS) para servidores críticos.
+Configuração de redes corporativas, VLANs, ACLs, firewall e WAPs.
+Gestão de ambientes híbridos on-premises e cloud (AWS, virtualização, VMware).
+Automação de tarefas de infraestrutura e monitoramento de serviços.
 
-Aprender e crescer na área de DevOps e Desenvolvimento Backend.
-Contribuir para projetos que envolvam automação e desenvolvimento de software.
-Aplicar meus conhecimentos em um ambiente colaborativo e inovador.
-Minhas habilidades incluem:
+🔹 Monitoramento, Observabilidade & Segurança
 
-Tecnologias: Windows, Linux, Python, JavaScript, Docker, AWS.
-Ferramentas: ServiceNow, GitHub, Git, Zabbix, Greenbone, Grafana, PostgreeSQL, SQL Server, MariaDB, MySQL.
-Sou um profissional:
+Implantação e gerenciamento de Zabbix, Grafana e Wazuh.
+Criação de dashboards customizados (alertas, geolocalização, tooltips, métricas avançadas).
+Integração de logs de segurança (ex.: Fortigate via Syslog com parser + GeoIP).
+Controle de ativos com Lansweeper e inventário com OCS/GLPI.
+Experiência prática em segurança ofensiva e defensiva com foco em Cybersecurity Industrial (OT/ICS).
 
-Proativo: Busco sempre novas soluções e aprimorar meus conhecimentos.
-Adaptavel: Facilidade em aprender novas tecnologias e ferramentas.
-Colaborativo: Trabalho bem em equipe e gosto de compartilhar conhecimento.
-Objetivo:
+🔹 Banco de Dados & Aplicações
 
-Atuar em uma equipe de desenvolvimento, aprendendo e contribuindo para a construção de soluções de qualidade.
+Administração e migração de bases SQL Server e PostgreSQL.
+Experiência em ajustes de schemas, backups, replicações e performance tuning.
+Integração de bancos em aplicações críticas (Control ID, Triângulos, RPNC, etc.).
+Suporte a sistemas corporativos (ERP, impressão corporativa, relatórios).
+
+🔹 Desenvolvimento & Automação
+
+Criação de APIs e sistemas com FastAPI + SQLAlchemy.
+Desenvolvimento de sistemas de pagamento (Pix, Boleto, PayPal, Cripto e Cartão/Stripe).
+Frontend com React + Tailwind, com foco em design limpo e responsivo.
+Integração de soluções sob medida para clientes (portais, painéis e aplicações web).
+Automação de rotinas administrativas e de TI (scripts, APIs e GPOs).
+
+🔹 Empreendedorismo & Consultoria
+
+Founder de empresa de TI, Cybersegurança e Desenvolvimento.
+Experiência em consultoria para pequenas e médias empresas, entregando soluções sob medida.
+Estruturação de documentações de conformidade (LGPD, políticas de privacidade, DPO).
+Produção de propostas, relatórios técnicos e apresentações executivas para clientes.
+Visão de negócio unindo infraestrutura, segurança e inovação tecnológica.
+
+📈 O que me move
+
+🚀 Conectar segurança, inovação e eficiência para impulsionar empresas com soluções em infraestrutura, automação e software.
+💡 Acredito em tecnologia acessível e transparente, que fortalece empresas em um mercado cada vez mais digital e competitivo.
 
 
 ### Habilidades
